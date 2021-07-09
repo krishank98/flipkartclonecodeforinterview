@@ -1,5 +1,5 @@
-import { AppBar, Toolbar,makestyles} from '@material-ui/core';
-const userstyle=makestyles({
+import { AppBar, Toolbar, makeStyles} from '@material-ui/core';
+const userstyle=makeStyles({
     header: {
         background:'#2874f0',
         height:55
