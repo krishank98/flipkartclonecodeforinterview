@@ -3,8 +3,8 @@ import Header from './components/header/cart/Header';
 
 function App() {
  return(
-    <Header/>
-   
+   <div> <Header/>
+   </div>
  );
 }
 
